@@ -1,2 +1,2 @@
 # Computer_Networks
-It contains the code which are based on networking
+This repository contains codes which are based on networking concept
