@@ -1,3 +1,5 @@
+//Two way client server communication
+
 import java.net.*;
 import java.io.*;
 class MyServer1{
